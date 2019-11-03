@@ -1,0 +1,3 @@
+hello appears 3 times 
+hola appears 2 times 
+chao appears 2 times 
